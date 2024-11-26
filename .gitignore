@@ -26,3 +26,7 @@ chromedriver
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Screenshots
+screenshots_*/
+*.png
